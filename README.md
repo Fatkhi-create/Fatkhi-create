@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 I am a Computer Science student at Purbaya Polytechnic.<br>🚀 I am currently focusing on building my personal brand in the IT sector.<br>🧠 I believe that if others can do it, I can too.</p>
+<p align="left">🎓 I am a informatics engineer student at Purbaya Polytechnic.<br>🚀 I am currently focusing on building my personal brand in the IT sector.<br>🧠 I believe that if others can do it, I can too.</p>
 
 ###
 
